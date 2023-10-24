@@ -1,5 +1,6 @@
 To consider:
 
+
 1) Try training the word2vec model with the Netflix data as well and not just use the pretrained model.
 
 2.1) Instead of many OneHot encoded data thar results in a sparse features matrix, try implanting the categorical data in the text and only using a language model for the
